@@ -1,5 +1,8 @@
 #include "sorting.h"
 
+/**
+ * https://www.youtube.com/watch?v=MtQL_ll5KhQ
+ */
 static void heapify(int* a, int size, int root);
 
 static void heapify(int* a, int size, int root)
